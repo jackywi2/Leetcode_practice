@@ -2,7 +2,7 @@
 ## Problem & Solution
 
 ### Array
-- M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[Python]]()
+- M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0912.py)
 
 ### Two Pointers
 - E [1. Two Sum](https://leetcode.com/problems/two-sum/?ref=secondlife.tw) [[Python]]()
