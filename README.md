@@ -1,1 +1,12 @@
 # Leetcode_practice
+## Problem & Solution
+
+### Array
+- M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[Python]]()
+
+### Two Pointers
+- M [1. Two Sum](https://leetcode.com/problems/two-sum/?ref=secondlife.tw) [[Python]]()
+- M [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?ref=secondlife.tw) [[Python]]()
+- M [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/?ref=secondlife.tw) [[Python]]()
+- M [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/?ref=secondlife.tw) [[Python]]()
+- M [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?ref=secondlife.tw) [[Python]]()
