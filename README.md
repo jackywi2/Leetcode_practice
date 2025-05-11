@@ -3,7 +3,6 @@
 
 ### Array
 - M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0912.py)
-- M [15. 3Sum](https://leetcode.com/problems/3sum/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0015.py)
 
 ### Two Pointers
 - E [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0021.py)
@@ -12,7 +11,7 @@
 - E [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0125.py)
 - M [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/valid-parentheses/?ref=secondlife.tw) [[Python]]()
 - M [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0167.py)
-- M [15. 3Sum](https://leetcode.com/problems/3sum/?ref=secondlife.tw) [[Python]]()
+- M [15. 3Sum](https://leetcode.com/problems/3sum/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0015.py)
 - M [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?ref=secondlife.tw) [[Python]]()
 - M [61. Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=problem-list-v2&envId=two-pointers) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0061.py)
 
