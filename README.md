@@ -3,6 +3,7 @@
 
 ### Array
 - M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0912.py)
+- E [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/?envType=problem-list-v2&envId=9p9flu17) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0217.py)
 
 ### Two Pointers
 - E [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0021.py)
