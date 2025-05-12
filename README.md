@@ -20,7 +20,7 @@
 - E [1. Two Sum](https://leetcode.com/problems/two-sum/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0001.py)
 - E [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=9p9flu17) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0242.py)
 
-### Stack
+### String
 - E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?ref=secondlife.tw) [[Python]]()
 
 ### Math
