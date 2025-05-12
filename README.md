@@ -10,7 +10,7 @@
 - E [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0977.py)
 - E [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/?ref=secondlife.tw) [[Python]](http://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0844.py)
 - E [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0125.py)
-- E [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=problem-list-v2&envId=two-pointers) [[Python]]()
+- E [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=problem-list-v2&envId=two-pointers) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0026.py)
 - E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?ref=secondlife.tw) [[Python]]()
 - M [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0167.py)
 - M [15. 3Sum](https://leetcode.com/problems/3sum/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0015.py)
