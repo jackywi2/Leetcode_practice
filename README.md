@@ -21,7 +21,7 @@
 - E [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=9p9flu17) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0242.py)
 
 ### String
-- E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?ref=secondlife.tw) [[Python]]()
+- E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0020.py)
 
 ### Math
 - M [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=9p9flu17) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0048.py)
