@@ -18,6 +18,9 @@
 - M [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0011.py)
 - M [61. Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=problem-list-v2&envId=two-pointers) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0061.py)
 
+### Tree
+- E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [[Python]]()
+
 ### Hashing
 - E [1. Two Sum](https://leetcode.com/problems/two-sum/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0001.py)
 - E [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=9p9flu17) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0242.py)
