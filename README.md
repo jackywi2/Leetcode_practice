@@ -19,7 +19,7 @@
 - M [61. Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=problem-list-v2&envId=two-pointers) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0061.py)
 
 ### Tree
-- E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [[Python]]()
+- E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0104.py)
 
 ### Hashing
 - E [1. Two Sum](https://leetcode.com/problems/two-sum/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0001.py)
