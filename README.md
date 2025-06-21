@@ -5,6 +5,7 @@
 - M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0912.py)
 - E [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/?envType=problem-list-v2&envId=9p9flu17) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0217.py)
 - E [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0121.py)
+- E [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) [Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/3105.py)
 
 ### Two Pointers
 - E [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0021.py)
@@ -13,6 +14,8 @@
 - E [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0125.py)
 - E [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=problem-list-v2&envId=two-pointers) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0026.py)
 - E [27. Remove Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=two-pointers) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0027.py)
+- E [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0344.py)
+- E [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0876.py)
 - M [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0167.py)
 - M [15. 3Sum](https://leetcode.com/problems/3sum/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0015.py)
 - M [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0011.py)
@@ -30,3 +33,4 @@
 
 ### Math
 - M [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=9p9flu17) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0048.py)
+- M [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0002.py)
