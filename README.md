@@ -10,6 +10,8 @@
 
 ### Linked List
 - E [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0021.py)
+- E [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0206.py)
+- M [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0092.py)
 
 ### String
 - E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0020.py)
