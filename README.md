@@ -15,6 +15,7 @@
 
 ### String
 - E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0020.py)
+- E [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0557.py)
 
 ### Tree
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0104.py)
