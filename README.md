@@ -12,11 +12,14 @@
 - E [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0021.py)
 - E [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0206.py)
 - M [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0092.py)
-
+- M [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0019.py)
+ 
 ### String
 - E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?ref=secondlife.tw) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0020.py)
 - E [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0557.py)
 - M [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0151.py)
+- M [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0024.py)
+- M [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/1721.py)
 
 ### Tree
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [[Python]](https://github.com/jackywi2/Leetcode_practice/blob/main/Solution/0104.py)
