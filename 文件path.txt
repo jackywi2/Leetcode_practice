@@ -1,0 +1,13 @@
+BIOS/UEFI: \\172.18.255.18\bu18 2$\CFS-00014695\GreenTraining\Documents
+
+OemPcie: \\172.18.255.18\bu18 2$\CFS-00014695\GreenTraining\L1
+
+\\172.18.255.18\bu18 2$\CFS-00014695
+
+C:\Users\wayne_cai\AppData\Local\Programs\Python\Python313
+
+
+https://iorlvskyo.blogspot.com/2011/10/pci-configuration-space.html
+
+
+
