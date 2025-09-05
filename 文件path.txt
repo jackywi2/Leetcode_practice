@@ -11,3 +11,11 @@ https://iorlvskyo.blogspot.com/2011/10/pci-configuration-space.html
 
 
 
+
+1. PcieBase 動態取得
+2.在實際的機器Read PCIe device，需確認有讀到正確的值
+3. Handle, Protocol, Guid 須確實理解並說明它們是甚麼。(可以閱讀UEFI SPEC)
+4. IO map, Memory Map 各自的運作原理是甚麼?
+5. I IO map, Memory Map 的Index 為何不同
+6. 為合可以直接使用 MmioRead32? MmioRead32 的code的內容是甚麼?
+7. 用IO Map read 實際讀取 PCIe register並確認有讀到正確的值
