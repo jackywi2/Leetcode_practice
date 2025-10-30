@@ -10,12 +10,6 @@ C:\Users\wayne_cai\AppData\Local\Programs\Python\Python313
 https://iorlvskyo.blogspot.com/2011/10/pci-configuration-space.html
 
 
-
-
-1. PcieBase 動態取得
-2.在實際的機器Read PCIe device，需確認有讀到正確的值
-3. Handle, Protocol, Guid 須確實理解並說明它們是甚麼。(可以閱讀UEFI SPEC)
-4. IO map, Memory Map 各自的運作原理是甚麼?
-5. I IO map, Memory Map 的Index 為何不同
-6. 為合可以直接使用 MmioRead32? MmioRead32 的code的內容是甚麼?
-7. 用IO Map read 實際讀取 PCIe register並確認有讀到正確的值
+	整理PCIe study的內容，之前的實驗做個紀錄，學到的內容留下筆記(建議盡量以圖像化的方式記錄)。針對大家提問的問題，已有答案的也留下筆記，而尚未有答案的問題則記錄下來，以便後續繼續研究。
+	針對NVRAM的Topic，需釐清UEFI開機有哪些Phase，而每個Phase在access NVRAM上有沒有麼差異
+	Microcode 課題則須找出BIOS code並繪製BIOS Update Microcode的完整流程圖
