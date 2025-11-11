@@ -10,6 +10,5 @@ C:\Users\wayne_cai\AppData\Local\Programs\Python\Python313
 https://iorlvskyo.blogspot.com/2011/10/pci-configuration-space.html
 
 
-	整理PCIe study的內容，之前的實驗做個紀錄，學到的內容留下筆記(建議盡量以圖像化的方式記錄)。針對大家提問的問題，已有答案的也留下筆記，而尚未有答案的問題則記錄下來，以便後續繼續研究。
-	針對NVRAM的Topic，需釐清UEFI開機有哪些Phase，而每個Phase在access NVRAM上有沒有麼差異
-	Microcode 課題則須找出BIOS code並繪製BIOS Update Microcode的完整流程圖
+在學習 PCIe 的過程中，起初主要透過網路資料建立基本概念，但對各項機制與名詞僅有片面的理解。經由與 mentor 討論與報告後，逐漸掌握了各名詞背後的實際意涵與運作原理。mentor 的指導讓我能從整體架構的角度思考，並在後續學習中更有系統地深入研究各細節，將分散的知識串連成完整的理解脈絡。
+
